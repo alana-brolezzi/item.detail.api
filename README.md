@@ -29,9 +29,11 @@ Para executar este projeto, você precisará ter instalado em sua máquina:
 
 Siga os passos abaixo para executar a API:
 
-### 1. Descompactar o arquivo ZIP
+### 1. Clonar o repositório
 
-Descompacte o arquivo ZIP do projeto recebido por email em um diretório de sua escolha.
+```bash
+git clone https://github.com/alana-brolezzi/item.detail.api.git
+```
 
 ### 2. Compilar e executar
 
